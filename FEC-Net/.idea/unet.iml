@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/UNet_picture" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/images" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/make_data" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/result_predict_avi_picture_txt/video" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/seg_to_result" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/results100_epoch" />
+      <excludeFolder url="file://$MODULE_DIR$/resume_mydata_999" />
+      <excludeFolder url="file://$MODULE_DIR$/save_weights" />
+      <excludeFolder url="file://$MODULE_DIR$/zhangzhen_predict" />
+    </content>
+    <orderEntry type="jdk" jdkName="unetpilipala" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/UNet_picture" />
+        <option value="$MODULE_DIR$/picture" />
+      </list>
+    </option>
+  </component>
+</module>

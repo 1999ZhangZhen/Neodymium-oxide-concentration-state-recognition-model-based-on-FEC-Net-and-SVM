@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b28d6fd-8671-4808-9d6e-30c0696954a7" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XOVbNTW4f7SaJRcXs5B4MYsGFF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Unet/unet/result_predict_avi_picture_txt/video/liao_shao/zz1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Unet\unet\result_predict_avi_picture_txt\video\liao_shao\zz1" />
+      <recent name="D:\Unet\unet\result_predict_avi_picture_txt\video\liao_shao" />
+      <recent name="D:\Unet\unet" />
+      <recent name="D:\Unet\unet\result_predict_avi_picture_txt\picture\zhengchang_liao" />
+      <recent name="D:\Unet\unet\result_predict_avi_picture_txt\picture\liao_shao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Unet\unet\result_predict_avi_picture_txt\video\liao_shao\zz1" />
+      <recent name="D:\Unet\unet\result_predict_avi_picture_txt\video\liao_shao" />
+      <recent name="D:\Unet\unet\result_predict_avi_picture_txt\video" />
+      <recent name="D:\Unet\unet\其他数据集" />
+      <recent name="D:\Unet\unet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.predict_enhance_video">
+    <configuration name="predict_enhance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict_enhance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict_enhance_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict_enhance_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict_enhance_video_zz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict_enhance_video_zz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/result_predict_avi_picture_txt/video/liao_shao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Unet\unet\result_predict_avi_picture_txt\video\liao_shao\zz1\zzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.predict_enhance_video" />
+        <item itemvalue="Python.zzz" />
+        <item itemvalue="Python.predict_enhance_video_zz" />
+        <item itemvalue="Python.predict_enhance" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0b28d6fd-8671-4808-9d6e-30c0696954a7" name="更改" comment="" />
+      <created>1698500183436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698500183436</updated>
+      <workItem from="1698500185137" duration="2728000" />
+      <workItem from="1698647652059" duration="4160000" />
+      <workItem from="1698671382502" duration="190000" />
+      <workItem from="1698671653686" duration="41000" />
+      <workItem from="1698673773041" duration="1137000" />
+      <workItem from="1698713420575" duration="666000" />
+      <workItem from="1698715729223" duration="1043000" />
+      <workItem from="1698736262696" duration="6000" />
+      <workItem from="1698739397513" duration="11000" />
+      <workItem from="1698739416294" duration="969000" />
+      <workItem from="1698824321018" duration="14000" />
+      <workItem from="1698831476364" duration="152000" />
+      <workItem from="1698838424035" duration="4915000" />
+      <workItem from="1698844035538" duration="1140000" />
+      <workItem from="1698845975440" duration="71562000" />
+      <workItem from="1699145296865" duration="44000" />
+      <workItem from="1699145360486" duration="51000" />
+      <workItem from="1699145432106" duration="6070000" />
+      <workItem from="1699232924174" duration="25126000" />
+      <workItem from="1699335143725" duration="1936000" />
+      <workItem from="1699338685923" duration="9674000" />
+      <workItem from="1699416328731" duration="1460000" />
+      <workItem from="1699421544210" duration="9512000" />
+      <workItem from="1699587076782" duration="80033000" />
+      <workItem from="1700017358458" duration="47000" />
+      <workItem from="1700017411353" duration="44348000" />
+      <workItem from="1700146045535" duration="25115000" />
+      <workItem from="1700273514072" duration="31161000" />
+      <workItem from="1700619878741" duration="28050000" />
+      <workItem from="1700743798471" duration="3600000" />
+      <workItem from="1700883545622" duration="1995000" />
+      <workItem from="1701070387460" duration="5671000" />
+      <workItem from="1701243009739" duration="165000" />
+      <workItem from="1701698355285" duration="30378000" />
+      <workItem from="1702082735131" duration="1502000" />
+      <workItem from="1704261547723" duration="7289000" />
+      <workItem from="1704288071830" duration="5237000" />
+      <workItem from="1704357955905" duration="1204000" />
+      <workItem from="1704372060938" duration="1911000" />
+      <workItem from="1704423765097" duration="1283000" />
+      <workItem from="1704430272165" duration="630000" />
+      <workItem from="1704454391734" duration="106000" />
+      <workItem from="1704456340391" duration="3586000" />
+      <workItem from="1704504017608" duration="1435000" />
+      <workItem from="1704506411265" duration="825000" />
+      <workItem from="1704507954063" duration="1215000" />
+      <workItem from="1704510582673" duration="27000" />
+      <workItem from="1704511071261" duration="942000" />
+      <workItem from="1704544920365" duration="87000" />
+      <workItem from="1704545076168" duration="9000" />
+      <workItem from="1704629096661" duration="1551000" />
+      <workItem from="1704715960416" duration="2059000" />
+      <workItem from="1704764949043" duration="68000" />
+      <workItem from="1704769660473" duration="2675000" />
+      <workItem from="1704784960787" duration="35000" />
+      <workItem from="1704789036727" duration="391000" />
+      <workItem from="1704795365895" duration="1647000" />
+      <workItem from="1704806228159" duration="2435000" />
+      <workItem from="1704942903436" duration="209000" />
+      <workItem from="1704974375777" duration="8976000" />
+      <workItem from="1705735528611" duration="109000" />
+      <workItem from="1706067698667" duration="1861000" />
+      <workItem from="1709107208063" duration="996000" />
+      <workItem from="1709519257322" duration="2376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/unet$GMM_outcome.coverage" NAME="GMM_outcome 覆盖结果" MODIFIED="1698910011558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$predict_enhance_video_zz.coverage" NAME="predict_enhance_video_zz 覆盖结果" MODIFIED="1704978267907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$predict.coverage" NAME="predict 覆盖结果" MODIFIED="1698502880202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$predict_enhance1.coverage" NAME="predict_enhance1 覆盖结果" MODIFIED="1698911526026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$Unet_sult_txt.coverage" NAME="Unet_sult_txt 覆盖结果" MODIFIED="1699521991096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$creature_quanbai.coverage" NAME="creature_quanbai 覆盖结果" MODIFIED="1701698975194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seg_to_result" />
+    <SUITE FILE_PATH="coverage/unet$draw_label_png.coverage" NAME="draw_label_png 覆盖结果" MODIFIED="1698739465671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/make_data" />
+    <SUITE FILE_PATH="coverage/unet$json_to_dataset.coverage" NAME="json_to_dataset 覆盖结果" MODIFIED="1698739454495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/make_data" />
+    <SUITE FILE_PATH="coverage/unet$shujujitongyidaxiao.coverage" NAME="shujujitongyidaxiao 覆盖结果" MODIFIED="1700636643105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhangzhen" />
+    <SUITE FILE_PATH="coverage/unet$test.coverage" NAME="test 覆盖结果" MODIFIED="1699316162623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$predict_enhance_video.coverage" NAME="predict_enhance_video 覆盖结果" MODIFIED="1706068953433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$compute_mean_std.coverage" NAME="compute_mean_std 覆盖结果" MODIFIED="1698918064783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$predict_enhance.coverage" NAME="predict_enhance 覆盖结果" MODIFIED="1704976676344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$train.coverage" NAME="train 覆盖结果" MODIFIED="1704358426823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$zzz.coverage" NAME="zzz 覆盖结果" MODIFIED="1704982289333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/result_predict_avi_picture_txt/video/liao_shao" />
+    <SUITE FILE_PATH="coverage/unet$nihaoya.coverage" NAME="nihaoya 覆盖结果" MODIFIED="1698928457884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$UNET_label_wenben.coverage" NAME="UNET_label_wenben 覆盖结果" MODIFIED="1698917349329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$Statistics.coverage" NAME="Statistics 覆盖结果" MODIFIED="1701828898902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet$unet.coverage" NAME="unet 覆盖结果" MODIFIED="1700635068770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/unet$seg_to_result.coverage" NAME="seg_to_result 覆盖结果" MODIFIED="1700622692658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seg_to_result" />
+    <SUITE FILE_PATH="coverage/unet$ui.coverage" NAME="ui 覆盖结果" MODIFIED="1699315407242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
